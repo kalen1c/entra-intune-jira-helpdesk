@@ -38,4 +38,4 @@ flowchart LR
 
 * [`lab-steps.md`](./lab-steps.md) - The complete documentation containing the step-by-step technical runbook with visual evidence.
 * [`EntraUserCreation.ps1`](./EntraUserCreation.ps1) - The primary automation script utilized to interface with the Microsoft Graph SDK for bulk user provisioning.
-* [`sample-logs.xml`](./sample-logs.xml) - Execution log demonstrating the script's error handling, output formatting, and audit trail capabilities.
+* [`sample-logs.csv`](./sample-logs.csv) - Execution log demonstrating the script's error handling, output formatting, and audit trail capabilities.
