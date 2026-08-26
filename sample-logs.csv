@@ -1,0 +1,7 @@
+# 1. Define fields
+DisplayName,MailNickname,UserPrincipalName,Department
+
+# 2. Define Test Accounts
+Alex Chen,AlexC,alex.chen@YOUR_DOMAIN.onmicrosoft.com,Sales
+Sarah Connor,SarahC,sarah.connor@YOUR_DOMAIN.onmicrosoft.com,Finance
+Marcus Wright,MarcusW,marcus.wright@YOUR_DOMAIN.onmicrosoft.com,Operations
