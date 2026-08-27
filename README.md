@@ -18,7 +18,7 @@ Simulated corporate IT support environment featuring PowerShell-scripted Entra I
 *   **Bulk User Automation:** Scripted onboarding of user accounts, assigning dynamic groups, and generating temporary credentials via Microsoft Graph.
 *   **Cloud Endpoint Management (MDM):** Enrolled Windows 11 endpoints, enforced compliance policies, and executed silent over-the-air software deployments.
 *   **SLA-Driven Helpdesk Operations:** Managed and resolved end-user incident lifecycles (MFA resets, device sync issues, software requests) within defined response targets.
-*   **Audit & Error Tracking:** Generated and analyzed script execution logs to ensure secure and accurate account provisioning.
+*   **Audit & Error Tracking:** Generated and analysed script execution logs to ensure secure and accurate account provisioning.
 
 ---
 
@@ -37,5 +37,5 @@ flowchart LR
 ## Repository Map
 
 * [`lab-steps.md`](./lab-steps.md) - The complete documentation containing the step-by-step technical runbook with visual evidence.
-* [`EntraUserCreation.ps1`](./EntraUserCreation.ps1) - The primary automation script utilized to interface with the Microsoft Graph SDK for bulk user provisioning.
-* [`sample-logs.csv`](./sample-logs.csv) - Execution log demonstrating the script's error handling, output formatting, and audit trail capabilities.
+* [`EntraUserCreation.ps1`](./EntraUserCreation.ps1) - The primary automation script utilised to interface with the Microsoft Graph SDK for bulk user provisioning.
+* [`sample-users.csv`](./sample-users.csv) - The sample employee data file used as input to test the creation script and assign organisational attributes.
